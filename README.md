@@ -1,2 +1,2 @@
 # Hello-Ely
-begining learning github
+now I am make some changes
